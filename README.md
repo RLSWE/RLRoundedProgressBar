@@ -2,6 +2,9 @@
 an IBDesignable progress bar with rounded corners. Supports RTL.
 Example included.
 
+#### Written in Swift 3
+
+
 <img src="https://github.com/RoniLeshes/RLRoundedProgressBar/blob/master/Images/Pink.png" width="200"/>
 <img src="https://github.com/RoniLeshes/RLRoundedProgressBar/blob/master/Images/White.png" width="200"/>
 <img src="https://github.com/RoniLeshes/RLRoundedProgressBar/blob/master/Images/Green.png" width="200"/>
