@@ -8,7 +8,7 @@ Example included.
 <img src="https://github.com/RoniLeshes/RLRoundedProgressBar/blob/master/Images/Pink.png" width="200"/>
 <img src="https://github.com/RoniLeshes/RLRoundedProgressBar/blob/master/Images/White.png" width="200"/>
 <img src="https://github.com/RoniLeshes/RLRoundedProgressBar/blob/master/Images/Green.png" width="200"/>
-
+<img src="https://github.com/RoniLeshes/RLRoundedProgressBar/blob/master/Images/giphy.gif" width="200"/>
 
 ### Things you can change using Interface Builder : 
 
